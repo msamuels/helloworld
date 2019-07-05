@@ -1,2 +1,2 @@
 # helloworld
-My repositorie
+My repository
